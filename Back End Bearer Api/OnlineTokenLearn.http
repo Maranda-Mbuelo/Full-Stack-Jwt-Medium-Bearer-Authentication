@@ -1,0 +1,6 @@
+@OnlineTokenLearn_HostAddress = http://localhost:5054
+
+GET {{OnlineTokenLearn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
